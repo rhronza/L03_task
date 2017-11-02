@@ -29,7 +29,7 @@ public class Main {
 		for(String s: Helper.getS()) System.out.println ("*"+s);
 		System.out.println(helper.rtz);
 		
-		
+		/****************************************************/
 
 		List<Item> items = new ArrayList<Item>();
 		Product product = new Product();
@@ -44,6 +44,7 @@ public class Main {
 		Gson gson = new Gson();
 		String json = gson.toJson(person);
 		System.out.println("json:"+json);
+		/****************************************************/
 
 		for (Item i : items) {
 			System.out.println("položka:"+i);

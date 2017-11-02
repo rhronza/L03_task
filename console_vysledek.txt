@@ -1,0 +1,9 @@
+*text999
+ahoj
+json:{"items":[{"name":"mleko","created":"Nov 2, 2017 6:17:52 AM"},{"created":"Nov 2, 2017 6:17:52 AM"}],"firstname":"Jan","surname":"Nov?k"}
+položka:cz.expertkom.ju.task.Product@46fbb2c1
+     name: mleko
+položka:cz.expertkom.ju.task.Car@1698c449
+     name: vychozi
+výsledek je vìtší než 100
+111
