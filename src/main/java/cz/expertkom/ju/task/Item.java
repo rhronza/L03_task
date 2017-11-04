@@ -2,7 +2,7 @@ package cz.expertkom.ju.task;
 
 import java.util.Date;
 
-public abstract class Item {
+public /*abstract*/ class Item {
 
 	public Item() {
 		this.created = new Date();
@@ -16,8 +16,6 @@ public abstract class Item {
 	private final Date created;
 
 	public Date getCreated() {
-		return created;
+		return this.created;
 	}
-
-	
 }
